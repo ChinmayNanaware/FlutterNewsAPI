@@ -4,3 +4,6 @@ A simple Flutter Application that implements API call and fetches news data from
 
 For the application to work, you will need to get your API Key from https://newsapi.org/ and replace YOUR_API_KEY with the your key.
 
+
+![alt text](https://github.com/[ChinmayNanaware]/[FlutterNewsAPI]/blob/[branch]/Screenshot 2020-12-24 at 2.51.45 PM.png?raw=true)
+

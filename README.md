@@ -15,7 +15,7 @@ For the application to work, you will need to get your API Key from https://news
 
 ![alt text](https://github.com/ChinmayNanaware/FlutterNewsAPI/blob/main/Screenshots/Screenshot%202020-12-24%20at%202.52.21%20PM.png?raw=true)
 
-![alt text](https://github.com/ChinmayNanaware/FlutterNewsAPI/blob/main/Screenshots/Screenshot_1608723111.png?raw=false)
+
 
 
 
